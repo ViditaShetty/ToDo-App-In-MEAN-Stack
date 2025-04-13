@@ -37,4 +37,14 @@
 ## 11. Adding Label & Removing Labels:
    ![image](https://github.com/user-attachments/assets/cfd7a9ba-7978-4ce7-b0c2-2b2854aff073)
    ##
+## 12. Mobile Responsive Design :
+   ![image](https://github.com/user-attachments/assets/11c58128-63ff-41dc-91dd-173af15b4dab)
+   ![image](https://github.com/user-attachments/assets/4ec45fc6-6961-44c4-842e-84339daf2634)
+   ![image](https://github.com/user-attachments/assets/bfb6d9ba-7f30-4959-b76b-fbd3a6e3cb19)
+   ![image](https://github.com/user-attachments/assets/af4770e0-f350-45a4-86eb-5a6b1e25edcb)
+   ![image](https://github.com/user-attachments/assets/8971552f-a934-43c8-bf7f-07182d010984)
+
+
+
+
    
